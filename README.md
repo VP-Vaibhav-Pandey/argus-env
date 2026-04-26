@@ -1,5 +1,17 @@
 # ARGUS — A polygraph for self-improving AI
 
+## 🤗 Live environment on Hugging Face Spaces
+
+**▶ [https://huggingface.co/spaces/Vaibhav-Pandeyy/Argus-Self-Learning-ENV](https://huggingface.co/spaces/Vaibhav-Pandeyy/Argus-Self-Learning-ENV)**
+
+Open the running app: **[vaibhav-pandeyy-argus-self-learning-env.hf.space](https://vaibhav-pandeyy-argus-self-learning-env.hf.space/)**
+
+[![Open in Spaces](https://img.shields.io/badge/🤗_Spaces-Argus--Self--Learning--ENV-yellow?style=for-the-badge)](https://huggingface.co/spaces/Vaibhav-Pandeyy/Argus-Self-Learning-ENV)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-vaibhav--pandeyy--argus--self--learning--env.hf.space-blue?style=for-the-badge)](https://vaibhav-pandeyy-argus-self-learning-env.hf.space/)
+[![API Docs](https://img.shields.io/badge/API_Docs-/docs-green?style=for-the-badge)](https://vaibhav-pandeyy-argus-self-learning-env.hf.space/docs)
+
+---
+
 > The model said it was learning. The validator agreed. We built the system that watches both.
 > When we ran it on ourselves, it caught a **+7 pp claim that didn't reproduce**. That is the result.
 
@@ -7,16 +19,16 @@ ARGUS is the first **OpenEnv-compliant** self-improvement environment that *refu
 
 ---
 
-## Live links
+## All live links
 
 | | url |
 |---|---|
-| 🌐 **Live HF Space** | https://vaibhav-pandeyy-argus-self-learning-env.hf.space/ |
-| 📁 **HF Space repo** | https://huggingface.co/spaces/Vaibhav-Pandeyy/Argus-Self-Learning-ENV |
-| 💻 **GitHub** | https://github.com/VP-Vaibhav-Pandey/argus-env |
-| 🧪 **Colab notebook** (one-click run) | https://colab.research.google.com/github/VP-Vaibhav-Pandey/argus-env/blob/main/notebooks/argus_colab.ipynb |
-| 📖 **Architecture** | https://vaibhav-pandeyy-argus-self-learning-env.hf.space/architecture |
-| 🔧 **Live API docs** | https://vaibhav-pandeyy-argus-self-learning-env.hf.space/docs |
+| 🤗 **Hugging Face Space** (environment) | **<https://huggingface.co/spaces/Vaibhav-Pandeyy/Argus-Self-Learning-ENV>** |
+| 🌐 **Running app** (live writeup + demo) | <https://vaibhav-pandeyy-argus-self-learning-env.hf.space/> |
+| 💻 **GitHub** | <https://github.com/VP-Vaibhav-Pandey/argus-env> |
+| 🧪 **Colab notebook** (one-click run) | <https://colab.research.google.com/github/VP-Vaibhav-Pandey/argus-env/blob/main/notebooks/argus_colab.ipynb> |
+| 📖 **Architecture** (rendered) | <https://vaibhav-pandeyy-argus-self-learning-env.hf.space/architecture> |
+| 🔧 **Live API docs** (Swagger) | <https://vaibhav-pandeyy-argus-self-learning-env.hf.space/docs> |
 
 ---
 
